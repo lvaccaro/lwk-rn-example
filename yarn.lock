@@ -4774,10 +4774,10 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
-lwk-rn@0.8.2:
-  version "0.8.2"
-  resolved "https://registry.yarnpkg.com/lwk-rn/-/lwk-rn-0.8.2.tgz#356725c7c71145a3190ce29c2725c414a4372177"
-  integrity sha512-9Q2BVTUMLFC4KehpbGbf4MMs/DlL/stq+M3bZH8lAR6OTThxyNBkrfewjGhLBxm9qrV204xwnwDETinRzMirbQ==
+lwk-rn@0.8.2-1.0:
+  version "0.8.2-1.0"
+  resolved "https://registry.yarnpkg.com/lwk-rn/-/lwk-rn-0.8.2-1.0.tgz#a4af0a441dac8574bc3299022e29fe03134ec361"
+  integrity sha512-TsTfCQhu5dXW8zzt8WnCDM6qqB7zUs/gAI+EgutK79zQji/ivbBE4PSrAeohXgMdTVXMlQ3Lio3/Q02EVo8S4Q==
 
 make-dir@^2.0.0, make-dir@^2.1.0:
   version "2.1.0"
